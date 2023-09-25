@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshatsingh1718
 - 👀 I’m interested in MachineLearning and DeepLearning
-- 🌱 I’m currently learning Computer Vision.
+- 🌱 I’m currently working with large language models.
 - 📫 How to reach me akshat.singh1718@gmail.com
 
 <!---
