@@ -1,3 +1,4 @@
+[![MasterHead](banner.jpg)]()
 <h1 align="center">Hi 👋, I'm Akshat Singh</h1>
 <h3 align="center">A passionate Machine learning developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/PCv.gif" />
