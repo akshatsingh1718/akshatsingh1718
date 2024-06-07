@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **Generative AI & RAG's**
 
+- 👨‍💻 Competetive programming progress on [Leetcode AkshatSingh1718](https://leetcode.com/u/AkshatSingh1718/)
+
 - 🌱 I’m currently learning **Langchaing, Llama Index and other Gen AI frameworks**
 
 - 👯 I’m looking to collaborate on **Generative AI Projects**
